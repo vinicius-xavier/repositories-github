@@ -45,7 +45,7 @@ Okay, now you can access the application from the route: http://localhost:8080
 
 For the application to have access to your repositories you need to change the API link.
 
-Para isso é necessário alterar o arquivo: 
+To do this you need to change the file:
 ```
 src/components/RepositoryList.tsx
 ```
